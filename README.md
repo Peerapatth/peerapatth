@@ -1,5 +1,5 @@
 ## 🙏 Hi, I'm Peerapat 
-I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with technology passionated, Interested in FrontEnd development and UX/UI design. I'm currently learning about computers and technology.
+I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with technology passionated, Interested in Frontend development and UX/UI design. I'm currently learning about computers and technology.
 
 <a href="https://www.linkedin.com/in/peerapad/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
